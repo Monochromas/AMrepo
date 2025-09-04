@@ -1,0 +1,20 @@
+{
+  "name": "AngelMortalTelegraf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alfred Yip",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-persist": "^3.1.0",
+    "telegraf": "^3.38.0",
+    "winston": "^3.8.1"
+  }
+}

@@ -1,0 +1,133 @@
+Loading data from namelist.txt
+Valli
+Shi Jie
+Mythri
+Iain
+Shiyi
+Anselm
+Michelle
+Ayumi
+Nicholas
+Wei Hao
+Wei Cheng
+Shu Sui
+Lionel
+Scott
+Faith
+Gene
+Abhinav
+Joel
+Benjamin
+Chin Yang
+Primus
+Yi Ning
+Chuo Yen
+Zi Hao
+Amius
+Yu Xuan
+Marcus
+Eugene
+Jishnu
+Andrew
+Wen Tao
+Yee Hern
+Micky
+Jiayun
+Haofu
+Xavier
+Elgin
+Van
+Wan Xin
+Yong Zhi
+Xian Rui
+Test1
+Test2
+Test3
+Valli-Shi Jie
+Shi Jie-Mythri
+Mythri-Iain
+Iain-Shiyi
+Shiyi-Anselm
+Anselm-Michelle
+Michelle-Ayumi
+Ayumi-Nicholas
+Nicholas-Wei Hao
+Wei Hao-Wei Cheng
+Wei Cheng-Shu Sui
+Shu Sui-Lionel
+Lionel-Scott
+Scott-Faith
+Faith-Gene
+Gene-Abhinav
+Abhinav-Joel
+Joel-Benjamin
+Benjamin-Chin Yang
+Chin Yang-Primus
+Primus-Yi Ning
+Yi Ning-Chuo Yen
+Chuo Yen-Zi Hao
+Zi Hao-Amius
+Amius-Yu Xuan
+Yu Xuan-Marcus
+Marcus-Eugene
+Eugene-Jishnu
+Jishnu-Andrew
+Andrew-Wen Tao
+Wen Tao-Yee Hern
+Yee Hern-Micky
+Micky-Jiayun
+Jiayun-Haofu
+Haofu-Xavier
+Xavier-Elgin
+Elgin-Van
+Van-Wan Xin
+Wan Xin-Yong Zhi
+Yong Zhi-Xian Rui
+Xian Rui-Valli
+Test1-Test2
+Test2-Test3
+Test3-Test1
+Valli,862779600
+Shi Jie,666756322
+Mythri,663760407
+Iain,421171714
+Shiyi,993448116
+Anselm,862194590
+Michelle,797869895
+Ayumi,597110595
+Nicholas,512238278
+Wei Hao,637048130
+Wei Cheng,648962724
+Shu Sui,774094135
+Lionel,616913678
+Scott,123481577
+Faith,280408774
+Gene,602340168
+Abhinav,335428535
+Joel,150904546
+Benjamin,769735139
+Chin Yang,542900815
+Primus,433321291
+Yi Ning,945728915
+Chuo Yen,307139447
+Zi Hao,390580932
+Amius,516944576
+Yu Xuan,558197866
+Marcus,589198607
+Eugene,902069536
+Jishnu,688854504
+Andrew,711867872
+Wen Tao,277432120
+Yee Hern,344754560
+Micky,490362380
+Jiayun,288636876
+Haofu,219932129
+Xavier,619824500
+Elgin,320002782
+Van,554844302
+Wan Xin,139190475
+Yong Zhi,153977581
+Xian Rui,835785382
+Test1,971758287
+Test2,232837261
+Test3,102401523
